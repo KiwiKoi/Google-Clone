@@ -1,0 +1,17 @@
+body {
+  font-family: arial;
+}
+
+figure {
+  height: 20vh;
+  width: 50vw;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+.btn {
+  color: grey;
+}
